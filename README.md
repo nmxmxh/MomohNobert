@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Okhai. Frontend Developer with a focus on developing great experiences.
-- 💼 Software Developer at [Outsource Global](https://www.outsourceglobal.com/).
+- 💼 Software Developer at Turing.
 - 👀 I’m interested in React with Next.js, Headless Content Management Systems, Augmented Realities & Artificial Intelligence.
 - 🌱 I’m currently learning about making better websites with Accessibility & Semantic HTML (with Animation on the side).
 - 💞️ I’m looking to collaborate on nothing at the moment. Study period!
